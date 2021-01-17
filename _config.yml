@@ -7,14 +7,14 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'We Keep Learning'
+description: "Gist Algorithm Study - We Keep Learning"
 
 short_url: 'WeKeepLearning.github.io/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: https://gist-algorithm-study-we-keep-learning.github.io/WeKeepLearning.github.io/
+baseurl: ""
 
 # Permalinks
 permalink: /:title
